@@ -1,0 +1,17 @@
+
+div.lazy {
+	width: 100%;
+	height: 100vh;
+	position: relative;
+	background-attachment: fixed;
+	background-position: 50% 50%;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+
+@media(max-width: 1365px) {
+	div.lazy  {
+		height: 100%;
+	}
+}

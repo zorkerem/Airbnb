@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap');
+
+:root {
+	--ff-sans: 'Roboto', -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+	--fw-light: 300;
+	--fw-regular: 400;
+	--fw-medium: 500;
+	--fw-bold: 700;
+
+	--fs-base: 1rem;
+	--fs-title-h1: 32px;
+	--fs-title-h2: 24px;
+
+	--fs-text-xs: 10px;
+	--fs-text-s: 12px;
+	--fs-text-m: 14px;
+	--fs-text-l: 16px;
+
+	--lh-body: 1.5;
+
+	--c-red: #FF5A5F;
+	--c-purple: #914669;
+	--c-green: #008489;
+	--c-darkGrey: #484848;
+	--c-grey: #767676;
+	--c-white: #fff;
+	--c-black: #000;
+	--c-border: #E3E3E3;
+	--c-placeholder: #8F8F8F;
+	--c-focus: #b7d7f9;
+	--c-focusBorder: #96B7DB;
+
+	--radius-m: 4px;
+	--radius-l: 12px;
+
+	--space-s: 8px;
+	--space-m: 16px;
+	--space-l: 24px;
+	--space-xl: 32px;
+	--spaceSection: 88px;
+}

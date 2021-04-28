@@ -1,0 +1,25 @@
+body {
+	-webkit-tap-highlight-color: transparent;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	font-family: var(--ff-sans);
+	line-height: var(--lh-body);
+	font-weight: var(--fw-regular);
+	font-size: var(--fs-base);
+	color: var(--c-black);
+	margin: 0;
+	padding: 0;
+}
+
+img {
+	user-select: none;
+}
+
+a {
+	color: var(--c-black);
+	transition: all .2s;
+}
+
+
+
+@media (max-width: 320px) {}
